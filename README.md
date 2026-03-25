@@ -90,7 +90,7 @@ This dashboard addresses that challenge by providing a centralized view of sales
 <pre>
 automobile-sales-dashboard
 │── automobiles_sales_dashboard.pbix
-│── dataset.csv
+│── automobiles_sales_dataset.csv
 │── automobile_sales_dashboard.png
 │── README.md
 </pre>
