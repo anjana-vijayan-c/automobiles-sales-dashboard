@@ -88,9 +88,9 @@ This dashboard addresses that challenge by providing a centralized view of sales
 
 <h2> Repository Structure</h2>
 <pre>
-automobile-sales-dashboard
+automobiles-sales-dashboard
 │── automobiles_sales_dashboard.pbix
-│── automobiles_sales_dataset.csv
+│── automobiles_sales_dataset.xlsx
 │── automobile_sales_dashboard.png
 │── README.md
 </pre>
